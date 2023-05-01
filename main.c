@@ -6,6 +6,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+#include "algo.h"
+
 int main(void)
 {
     printf("testing...\n");
